@@ -1,0 +1,60 @@
+{
+    "common": {
+        "welcome": "مرحباً",
+        "next": "التالي",
+        "back": "رجوع",
+        "submit": "إرسال",
+        "cancel": "إلغاء",
+        "finish": "إنهاء"
+    },
+    "onboarding": {
+        "getStarted": "ابدأ الآن",
+        "profileTitle": "أنشئ ملفك الشخصي",
+        "goalTitle": "اختر هدفك",
+        "mediaTitle": "الحالة البدنية الحالية",
+        "personalInfo": "المعلومات الشخصية",
+        "goal": "الهدف",
+        "media": "الوسائط"
+    },
+    "dashboard": {
+        "title": "لوحة التحكم",
+        "greeting": "صباح الخير",
+        "stats": {
+            "calories": "السعرات",
+            "water": "الماء",
+            "streak": "الاستمرارية"
+        },
+        "bodyIndex": "مؤشر جسمك",
+        "schedule": "جدول اليوم"
+    },
+    "training": {
+        "title": "التمارين",
+        "workoutPlan": "خطة التمارين",
+        "exerciseList": "قائمة التمارين",
+        "instructions": "التعليمات",
+        "tips": "نصائح الخبراء"
+    },
+    "diet": {
+        "title": "نظام غذائي",
+        "hydration": "الترطيب",
+        "meals": "وجبات اليوم",
+        "macros": {
+            "protein": "بروتين",
+            "carbs": "كربوهيدرات",
+            "fats": "دهون"
+        }
+    },
+    "subscription": {
+        "title": "الاشتراك",
+        "upgrade": "ارتقِ بمستواك",
+        "monthly": "شهرياً",
+        "yearly": "سنوياً",
+        "basic": "أساسي",
+        "vip": "VIP الذهبي"
+    },
+    "validation": {
+        "required": "هذا الحقل مطلوب",
+        "invalidEmail": "يرجى إدخال بريد إلكتروني صالح",
+        "minLength": "يجب أن يكون {{min}} أحرف على الأقل"
+    }
+}

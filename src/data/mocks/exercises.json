@@ -1,0 +1,123 @@
+[
+    {
+        "id": "1",
+        "name": {
+            "en": "Push Ups",
+            "ar": "تمرين الضغط"
+        },
+        "targetMuscle": [
+            "Chest",
+            "Triceps",
+            "Shoulders"
+        ],
+        "equipment": [
+            "None"
+        ],
+        "difficulty": "beginner",
+        "sets": 3,
+        "reps": {
+            "loseWeight": "15-20",
+            "gainMuscle": "8-12",
+            "gainWeight": "10-15"
+        },
+        "restSeconds": 60,
+        "instructions": [
+            {
+                "en": "Start in a high plank position.",
+                "ar": "ابدأ بوضعية البلانك المرتفع."
+            },
+            {
+                "en": "Lower your body until your chest nearly touches the floor.",
+                "ar": "انزل بجسمك حتى يلامس صدرك الأرض تقريباً."
+            }
+        ],
+        "tips": [
+            {
+                "en": "Keep your core tight.",
+                "ar": "حافظ على عضلات بطنك مشدودة."
+            }
+        ],
+        "photoUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+        "videoUrl": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=200&h=200&fit=crop"
+    },
+    {
+        "id": "2",
+        "name": {
+            "en": "Squats",
+            "ar": "القرفصاء"
+        },
+        "targetMuscle": [
+            "Quads",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "equipment": [
+            "None"
+        ],
+        "difficulty": "beginner",
+        "sets": 4,
+        "reps": {
+            "loseWeight": "20",
+            "gainMuscle": "10-12",
+            "gainWeight": "12-15"
+        },
+        "restSeconds": 90,
+        "instructions": [
+            {
+                "en": "Stand with feet shoulder-width apart.",
+                "ar": "قف مع مباعدة قدميك بعرض الكتفين."
+            },
+            {
+                "en": "Lower your hips back and down.",
+                "ar": "اخفض وركيك للخلف والأسفل."
+            }
+        ],
+        "tips": [
+            {
+                "en": "Keep your heels on the ground.",
+                "ar": "حافظ على كعبيك على الأرض."
+            }
+        ],
+        "photoUrl": "https://images.unsplash.com/photo-1566241440091-ec10de8db2e1?w=800&q=80",
+        "videoUrl": "https://www.youtube.com/watch?v=aclHkVaku9U",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1566241440091-ec10de8db2e1?w=200&h=200&fit=crop"
+    },
+    {
+        "id": "3",
+        "name": {
+            "en": "Plank",
+            "ar": "تمرين بلانك"
+        },
+        "targetMuscle": [
+            "Core",
+            "Shoulders"
+        ],
+        "equipment": [
+            "None"
+        ],
+        "difficulty": "beginner",
+        "sets": 3,
+        "reps": {
+            "loseWeight": "45s",
+            "gainMuscle": "60s",
+            "gainWeight": "60s"
+        },
+        "restSeconds": 45,
+        "instructions": [
+            {
+                "en": "Hold a push-up position but rest on your forearms.",
+                "ar": "اتخذ وضعية تمرين الضغط ولكن استند على ساعديك."
+            }
+        ],
+        "tips": [
+            {
+                "en": "Do not let your hips sag.",
+                "ar": "لا تدع وركيك يتدليان."
+            }
+        ],
+        "photoUrl": "https://images.unsplash.com/photo-1566241440091-ec10de8db2e1?w=800&q=80",
+        "videoUrl": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1566241440091-ec10de8db2e1?w=200&h=200&fit=crop"
+    }
+]
