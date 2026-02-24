@@ -7,7 +7,7 @@ import AppRoutes from '@/routes/router';
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/fitness">
             <LanguageProvider>
                 <ThemeProvider>
                     <AuthProvider>
